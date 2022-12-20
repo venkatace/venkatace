@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @venkatace
-- 👀 I’m interested in NLP, Applied ML
-- 🌱 I’m currently learning advanced machine learning
-- 💞️ I’m looking to collaborate on discoveries anything on NLP, AI/ML
+- 👋 Hi, I’m @venkatace, NLP researcher & Consultant 
+- 👀 I’m interested in NLP, Applied ML, Applied Deep Learning
+- 🌱 I’m currently learning MLOps and creating use cases with BERT model. 
+- 💞️ I’m looking to collaborate on research in Neural Machine Translation, Low resource Language modeling, Chatbots, NLU, NLG
 - 📫 How to reach me -- venkatace7@gmail.com
 
 <!---
